@@ -10,7 +10,7 @@
   },
   "author": "Mark Jackson <markjackson@bureaubolster.nl>",
   "devDependencies": {
-    "cross-env": "6.0.3",
+    "cross-env": "7.0.3",
     "eslint": "6.5.1",
     "rollup": "1.28.0"
   },

@@ -11,7 +11,7 @@
   "author": "Mark Jackson <markjackson@bureaubolster.nl>",
   "devDependencies": {
     "cross-env": "6.0.3",
-    "eslint": "6.5.1",
+    "eslint": "7.22.0",
     "react-json-view": "1.19.1",
     "rollup": "1.28.0",
     "styled-components": "5.1.0"

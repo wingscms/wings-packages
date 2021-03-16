@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "cross-env": "6.0.3",
-    "rollup": "1.28.0"
+    "rollup": "2.41.4"
   },
   "peerDependencies": {
     "react": "^16"
